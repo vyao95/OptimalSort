@@ -1,4 +1,3 @@
-package cs1c;
 
 import java.io.*;
 
